@@ -7,8 +7,6 @@ I'm a Cloud Engineering Student at AltSchool, Web3 and B2B content writer, and S
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, CSS, HTML, and Open Source.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software/Cloud Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/1Mdp1qTriVlNvl2cgzbIwWXiHQA75qClGDSHKIQ1erkg/edit?usp=sharing) and contact me by emailing galosikhena@gmail.com.
