@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-![Website Badge](https://img.shields.io/badge/-gideonaleonogwe.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://gideonaleonogwe.com)] [![Linkedin Badge](https://img.shields.io/badge/-GideonAleonogwe-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gideon-aleonogwe/)](https://www.linkedin.com/in/gideon-aleonogwe/) [![Twitter Badge](https://img.shields.io/badge/-@GAleonogwe-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/GAleonogwe)](https://twitter.com/GAleonogwe)
+![Website Badge](https://img.shields.io/badge/-gideonaleonogwe.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://gideonaleonogwe.com) [![Linkedin Badge](https://img.shields.io/badge/-GideonAleonogwe-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gideon-aleonogwe/)](https://www.linkedin.com/in/gideon-aleonogwe/) [![Twitter Badge](https://img.shields.io/badge/-@GAleonogwe-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/GAleonogwe)](https://twitter.com/GAleonogwe)
 
 I'm a Full stack Software Engineering Student at ALX interested in DevOps, cloud technologies and IoT. I create technical content (on my [Blog](#), [Newsletter](#), and [YouTube](#), build useful [open-source projects](https://github.com/GideonIsBuilding), speak at some meetups/conferences, build technical communities...
 
@@ -8,7 +8,7 @@ I'm a Full stack Software Engineering Student at ALX interested in DevOps, cloud
 
 - 😊 Pronouns: He/him
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Intern or Junior level Software Engineer.
+- 💼 Job interests: Intern or Junior level Software Engineering roles.
 - 📫 You can [view my resume](https://docs.google.com/document/d/1Mdp1qTriVlNvl2cgzbIwWXiHQA75qClGDSHKIQ1erkg/edit?usp=sharing) and contact me by emailing galosikhena@gmail.com.
 
 ---
