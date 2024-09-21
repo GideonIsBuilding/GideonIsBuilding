@@ -1,8 +1,8 @@
 # Hello there; welcome 👋🏾
 
-![Website Badge](https://img.shields.io/badge/-gideonaleonogwe.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://gideonaleonogwe.com) [![Linkedin Badge](https://img.shields.io/badge/-GideonAleonogwe-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gideon-aleonogwe/)](https://www.linkedin.com/in/gideon-aleonogwe/) [![Twitter Badge](https://img.shields.io/badge/-@theGcoding-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/theGcoding)](https://twitter.com/theGcoding)
+[![Linkedin Badge](https://img.shields.io/badge/-GideonAleonogwe-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gideon-aleonogwe/)](https://www.linkedin.com/in/gideon-aleonogwe/) [![Twitter Badge](https://img.shields.io/badge/-@theGcoding-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/theGcoding)](https://twitter.com/theGcoding)
 
-I'm a Cloud and DevOps Engineer. I teach about Linux and write technical content (on my [Blog](https://dev.to/gideonisbuilding), [Newsletter](#), and [YouTube](#), build technical communities...
+I'm a Cloud and DevOps Engineer. I teach about Linux, write technical content (on my [Blog](https://dev.to/gideonisbuilding), and build technical communities.
 
 **Here's a quick summary about me**:
 
